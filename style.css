@@ -1,0 +1,55 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background:  #78bbd75d;
+}
+
+h1 {
+    margin-top: 20px;
+   
+}
+
+select {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px; 
+    background-color: #78bbd75d;
+   border-radius: 10px;
+
+}
+
+#weatherBox{
+    margin: 30px auto;
+    width: 220px;
+    background: rgba(37, 88, 48, 0);
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 20px 30px #26250d;
+    opacity: 0;
+    transform: scale(0.8);
+    transition: 0.10s ease;
+  
+
+}
+
+#weatherBox.show {
+    opacity: 1;
+    transform: scale(1);
+    color: rgb(18, 20, 19);
+}
+
+#weatherIcon {
+    width: 100px;
+
+}
+
+#tempText{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#descText {
+    margin-top: 10px;
+    font-size: 18px;
+}

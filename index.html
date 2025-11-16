@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meteorlogi Deutschland</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Wetter in deustschen Städten</h1>
+
+    <select id="citySelect" onchange="loadTemperature()">
+        <option value="Berlin">Berlin</option>
+         <option value="Munich">Munich</option>
+          <option value="Dusseldorf">Dusseldorf</option>
+           <option value="Stuttgart">Stuttgart</option>
+          <option value="Heilbronn">Heilbronn</option>
+          <option value="Hamburg">Hamburg</option>
+           
+    </select>
+
+    <div id="weatherBox">
+        <img id="weatherIcon" src="" alt="icon">
+        <div id="tempText">--°C</div>
+        <div id="descText"></div>
+        <div id="errorText" style="color: crimson; margin-top: 8px;"></div>
+
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
