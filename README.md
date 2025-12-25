@@ -30,7 +30,7 @@ OpenWeatherMap API
 Echtzeit-Wetterdaten
 
 
-##🔑 API Key verwenden
+###🔑 API Key verwenden
  1. Erstelle einen kostenlosen Account auf:
 https://openweathermap.org/
  2. Gehe zu My API Keys
@@ -48,7 +48,7 @@ https://openweathermap.org/
 
 
 
-##🚀 Lernziele dieses Projekts
+###🚀 Lernziele dieses Projekts
  • Grundlagen des Fetch-APIs verstehen
  • JSON-Daten auslesen und benutzen
  • Dynamisches Ändern von HTML-Elementen
