@@ -16,7 +16,7 @@ Ideal für Anfänger, Schüler oder jeden, der das Arbeiten mit APIs in JavaScri
  • 🎨 Übersichtliches, kinderleichtes UI – perfekt für Lernprojekte
 
 
- 🧰 Verwendete Technologien
+# 🧰 Verwendete Technologien
 
 Technologie
 Zweck
@@ -38,7 +38,7 @@ https://openweathermap.org/
  4. Trage ihn in script.js 
 
 
-📁 Projektstruktur
+#📁 Projektstruktur
 
 📦 Wetter Deutschland
  ┣ 📜 index.html
@@ -59,7 +59,7 @@ Perfekt für Anfänger, Schüler und alle, die JavaScript Schritt für Schritt l
 
 ⸻
 
-⭐ Zukünftige Erweiterungen
+#⭐ Zukünftige Erweiterungen
  • 7-Tage-Wettervorhersage
  • Wechselnde Hintergrundbilder je nach Wetter
  • Dunkel-/Hell-Modus
