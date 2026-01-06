@@ -38,7 +38,7 @@ https://openweathermap.org/
  4. Trage ihn in script.js 
 
 
-#📁 Projektstruktur
+📁 Projektstruktur
 
 📦 Wetter Deutschland
  ┣ 📜 index.html
@@ -48,7 +48,7 @@ https://openweathermap.org/
 
 
 
-#🚀 Lernziele dieses Projekts
+🚀 Lernziele dieses Projekts
  • Grundlagen des Fetch-APIs verstehen
  • JSON-Daten auslesen und benutzen
  • Dynamisches Ändern von HTML-Elementen
@@ -59,7 +59,7 @@ Perfekt für Anfänger, Schüler und alle, die JavaScript Schritt für Schritt l
 
 ⸻
 
-##⭐ Zukünftige Erweiterungen
+#⭐ Zukünftige Erweiterungen
  • 7-Tage-Wettervorhersage
  • Wechselnde Hintergrundbilder je nach Wetter
  • Dunkel-/Hell-Modus
