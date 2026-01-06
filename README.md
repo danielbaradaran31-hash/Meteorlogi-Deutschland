@@ -1,4 +1,4 @@
-###🌦️ Wetter Deutschland – JavaScript API Projekt
+##🌦️ Wetter Deutschland – JavaScript API Projekt
 
 Ein modernes, einfaches und interaktives Wetter-Projekt, das die aktuellen Wetterdaten für mehrere deutsche Städte anzeigt.
 Dieses Projekt nutzt das OpenWeatherMap API, um Temperatur, Wetterzustand und passende Icons in Echtzeit abzurufen.
@@ -16,7 +16,7 @@ Ideal für Anfänger, Schüler oder jeden, der das Arbeiten mit APIs in JavaScri
  • 🎨 Übersichtliches, kinderleichtes UI – perfekt für Lernprojekte
 
 
-###🧰 Verwendete Technologien
+##🧰 Verwendete Technologien
 
 Technologie
 Zweck
@@ -30,7 +30,7 @@ OpenWeatherMap API
 Echtzeit-Wetterdaten
 
 
-###🔑 API Key verwenden
+##🔑 API Key verwenden
  1. Erstelle einen kostenlosen Account auf:
 https://openweathermap.org/
  2. Gehe zu My API Keys
@@ -38,7 +38,7 @@ https://openweathermap.org/
  4. Trage ihn in script.js 
 
 
-###📁 Projektstruktur
+##📁 Projektstruktur
 
 📦 Wetter Deutschland
  ┣ 📜 index.html
@@ -48,7 +48,7 @@ https://openweathermap.org/
 
 
 
-###🚀 Lernziele dieses Projekts
+##🚀 Lernziele dieses Projekts
  • Grundlagen des Fetch-APIs verstehen
  • JSON-Daten auslesen und benutzen
  • Dynamisches Ändern von HTML-Elementen
@@ -59,7 +59,7 @@ Perfekt für Anfänger, Schüler und alle, die JavaScript Schritt für Schritt l
 
 ⸻
 
-###⭐ Zukünftige Erweiterungen
+##⭐ Zukünftige Erweiterungen
  • 7-Tage-Wettervorhersage
  • Wechselnde Hintergrundbilder je nach Wetter
  • Dunkel-/Hell-Modus
