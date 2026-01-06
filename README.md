@@ -59,7 +59,7 @@ Perfekt für Anfänger, Schüler und alle, die JavaScript Schritt für Schritt l
 
 ⸻
 
-#⭐ Zukünftige Erweiterungen
+⭐ Zukünftige Erweiterungen
  • 7-Tage-Wettervorhersage
  • Wechselnde Hintergrundbilder je nach Wetter
  • Dunkel-/Hell-Modus
